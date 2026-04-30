@@ -58,7 +58,6 @@ Top features affecting house price:
 
 ### Installation
 
-```bash
 # Clone repository
 git clone https://github.com/your-username/House-Price-Prediction-Regression-ML.git
 cd House-Price-Prediction-Regression-ML
