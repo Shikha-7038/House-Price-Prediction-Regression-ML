@@ -81,7 +81,7 @@ Top features affecting house price:
 
 ### Installation
 
-#```bash
+```bash
 # Clone repository
 git clone https://github.com/your-username/House-Price-Prediction-Regression-ML.git
 cd House-Price-Prediction-Regression-ML
@@ -97,7 +97,7 @@ python app.py
 # Visit http://localhost:8000/docs for interactive API documentation
 
 📁 Project Structure
-```
+
 House-Price-Prediction/
 │
 ├── data/               # Generated dataset
@@ -159,6 +159,7 @@ Environment	Local / Google Colab
 
 
 📈 Learning Outcomes
+
 ✅ Synthetic data generation for real-world scenarios
 
 ✅ Data cleaning & handling outliers
@@ -176,6 +177,7 @@ Environment	Local / Google Colab
 ✅ Portfolio-ready project structure
 
 🔮 Future Improvements
+
 Add XGBoost / LightGBM models
 
 Geographic visualization (map integration)
@@ -187,9 +189,11 @@ Docker containerization
 Web dashboard (Next.js)
 
 📝 License
+
 MIT License - Free for academic and commercial use
 
 🙏 Acknowledgments
+
 Synthetic data inspired by real estate market patterns
 
 Built for data science portfolio and learning purposes
