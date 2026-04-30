@@ -73,7 +73,7 @@ bash
 python app.py
 # Visit http://localhost:8000/docs for interactive API documentation
 📁 Project Structure
-
+```
 House-Price-Prediction/
 ├── data/               # Generated dataset
 ├── src/                # Source code
