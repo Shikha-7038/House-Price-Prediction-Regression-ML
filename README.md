@@ -58,6 +58,7 @@ Top features affecting house price:
 
 ### Installation
 
+```bash
 # Clone repository
 git clone https://github.com/your-username/House-Price-Prediction-Regression-ML.git
 cd House-Price-Prediction-Regression-ML
@@ -72,7 +73,7 @@ bash
 python app.py
 # Visit http://localhost:8000/docs for interactive API documentation
 📁 Project Structure
-```
+
 House-Price-Prediction/
 ├── data/               # Generated dataset
 ├── src/                # Source code
@@ -86,7 +87,7 @@ House-Price-Prediction/
 ├── app.py              # FastAPI application
 ├── requirements.txt    # Dependencies
 └── README.md           # Documentation
-```
+
 
 📊 Visualizations
 Plot	Description
